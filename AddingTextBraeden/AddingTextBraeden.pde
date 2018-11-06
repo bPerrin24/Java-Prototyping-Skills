@@ -7,7 +7,7 @@ color purple = #E34ED9;
 
 void setup() {
   size(500,600);
-  //println("Start of Console");
+ println("Start of Console");
 //printArray(fontlist);
 titleFont = createFont ("Showcard Gothic", 55);
 
